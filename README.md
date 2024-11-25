@@ -1,3 +1,5 @@
+■ ER 図
+https://gyazo.com/593f61199f5757cd4cac0d2a9fa6c44b
 
 ■ 画面遷移図
 https://www.figma.com/design/uCwxo2gTmsbj3ZzZxnH5O6/Diary-Application?node-id=0-1&t=eDly5tGJKtBEKPuJ-1
