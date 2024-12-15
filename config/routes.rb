@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   root "top#index"
 
   # ユーザー登録用ルート
-  resources :users, only: [:new, :create]
+  resources :users, only: [ :new, :create ]
 
   # その他のルート
   get "up" => "rails/health#show", as: :rails_health_check
