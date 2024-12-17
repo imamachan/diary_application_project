@@ -1,1 +1,9 @@
-@import "bootstrap";
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// Custom styles
+$primary-color: #3498db;
+
+body {
+  background-color: $primary-color;
+}
